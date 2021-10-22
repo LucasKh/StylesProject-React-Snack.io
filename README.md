@@ -1,11 +1,16 @@
-# Sample Snack app
+# Sample Snack app - Design using CSS (React.js)
+This application mainly tackles styles and design where  we did implement the following: 
+- This student app, can provide students with a much more convenient and simple way to register and login using their credentials.
+- The new modern design makes it a joy to use for students, and helps to ensure cooperation with your schools security processes.
+- Elements in react Native are styled using JavaScript. These style names and values are similar to those used in CSS.
+# App Features:
+![image](https://user-images.githubusercontent.com/88887839/138508374-22ad7a9a-4f58-4fc6-9f3e-5a42b6f77d64.png)
+# Snapshots
+![image](https://user-images.githubusercontent.com/88887839/138508679-d57cf395-c047-49c1-a205-38358f481c17.png)
+# Conclusion and Future Work
+More Features should be implemented in this app:
+- Using SQLITE to allow more users to register instead of saving the users statically.
+- Use firebase to improve the forget password feature.
+- Adding more Categories to the app using sidebar Menu or Tabs.
+- Adding a search feature to search for the course details.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
